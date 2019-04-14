@@ -1,2 +1,4 @@
-#Summary
-* [计算机常识](readme.md)
+# Table of contents
+
+* [Initial page](README.md)
+

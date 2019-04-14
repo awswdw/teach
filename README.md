@@ -1,2 +1,2 @@
-# teach
-python teach
+# Initial page
+
